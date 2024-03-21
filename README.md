@@ -4,6 +4,15 @@
   User Crud
 </h1>
 
+<div align="center">
+   <a href="#documentação-em-português">Leia em Português |</a>
+  <a href="#documentation-in-english">Read in English</a>
+</div>
+
+---
+
+# Documentação em português
+
 <p align = "center">
 Este é um crud de usuário que visa facilitar o acesso com funcionalidades básicas de um usuário e login.
 </p>
@@ -219,4 +228,22 @@ Api também conta a rota de interação, manipulação e documentação mais det
 
 ---
 
-<p align ='center'> Copyright <a href="https://github.com/vagnermengali">Vagner Mengali</a> 2023 </p>
+# Documentation in English
+
+<p align="center">
+This is a user CRUD aiming to facilitate access with basic user and login functionalities.
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#swagger">Swagger</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## **Installation**
+
+Below is the step-by-step installation and execution guide in a development environment.
+
+The base URL of the API is `http://localhost:3000`
+
+1. Clone the repository:
