@@ -67,7 +67,7 @@ yarn start:dev
 
 ---
 
-## **Endpoints**
+## **Endpoints Pt-BR**
 
 A API esta divida em /users sendo um CRUD e /login para geraão do token e melhor interação com a api. <br/>
 
@@ -218,7 +218,7 @@ Nessa rota o usuário pode acessar sem o token para efetuar o login :
 
 ---
 
-## **Swagger**
+## **Swagger Pt-BR**
 
 Api também conta a rota de interação, manipulação e documentação mais detalhada.
 
