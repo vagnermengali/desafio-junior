@@ -444,3 +444,7 @@ API also includes routes for interaction, manipulation, and more detailed docume
 <p align ='center'><a href="#--user-crud" >Back to Top</a></p>
 
 ---
+
+<div align="center">
+   <span>Created by </span><a href="https://github.com/vagnermengali">Vagner Mengali</a>
+</div>
